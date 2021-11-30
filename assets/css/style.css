@@ -1,4 +1,7 @@
-
+.navbar {
+  margin: 0;
+  width: 100vw;
+}
 
 .navbar-light .navbar-nav .nav-link{
   color: white;
